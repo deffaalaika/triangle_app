@@ -23,3 +23,6 @@ detectTriangle(num sideA, num sideB, num sideC) {
 
   return "Segitiga Sembarang";
 }
+
+
+final test;
